@@ -1,1 +1,4 @@
+# Model files
+*.pkl
+models/*.pkl
 stack_model.pkl
