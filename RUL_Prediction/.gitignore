@@ -2,3 +2,5 @@
 *.pkl
 models/*.pkl
 stack_model.pkl
+*pth
+notebooks/*.pth
